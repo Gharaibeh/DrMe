@@ -13,6 +13,6 @@
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
-  "author": "",
+  "author": "AIHG",
   "license": "ISC"
 }
